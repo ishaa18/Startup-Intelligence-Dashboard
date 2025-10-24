@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+venv/
+
+# Streamlit cache
+.streamlit/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data files (if private)
+data/*.csv
+
+# VS Code
+.vscode/
