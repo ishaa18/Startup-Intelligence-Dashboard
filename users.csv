@@ -1,0 +1,2001 @@
+user_id,signup_date,country,plan_type
+1,2025-06-27,Mexico,Basic
+2,2024-12-04,Rwanda,Premium
+3,2024-10-31,Greece,Free
+4,2025-08-05,Hong Kong,Free
+5,2025-02-05,Nepal,Free
+6,2025-01-25,Marshall Islands,Premium
+7,2025-01-16,French Polynesia,Basic
+8,2024-12-15,Korea,Basic
+9,2025-08-04,Madagascar,Free
+10,2024-11-30,Netherlands,Free
+11,2025-07-11,Jersey,Basic
+12,2025-08-05,Bolivia,Free
+13,2025-10-03,South Africa,Free
+14,2025-05-21,Reunion,Basic
+15,2024-11-24,Brazil,Basic
+16,2025-06-08,Timor-Leste,Free
+17,2025-04-03,Palau,Free
+18,2024-11-03,Pakistan,Free
+19,2024-11-02,Turkey,Free
+20,2024-11-27,Seychelles,Free
+21,2025-01-14,Micronesia,Premium
+22,2025-01-20,Saint Helena,Basic
+23,2025-05-06,Tonga,Basic
+24,2025-06-12,Cuba,Free
+25,2024-11-01,Jersey,Basic
+26,2025-05-27,Korea,Free
+27,2025-01-07,Tuvalu,Free
+28,2025-07-27,Denmark,Free
+29,2025-07-01,Isle of Man,Premium
+30,2025-07-21,Guadeloupe,Premium
+31,2025-05-21,Sweden,Basic
+32,2025-04-02,Korea,Free
+33,2025-01-15,Iran,Basic
+34,2025-04-14,Israel,Basic
+35,2025-06-07,Saint Lucia,Basic
+36,2025-02-07,Bhutan,Free
+37,2025-09-01,Germany,Basic
+38,2025-09-24,Japan,Basic
+39,2024-10-24,Germany,Free
+40,2025-08-12,Papua New Guinea,Basic
+41,2025-08-30,Equatorial Guinea,Basic
+42,2024-12-23,Holy See (Vatican City State),Premium
+43,2025-07-20,Zimbabwe,Free
+44,2025-04-04,Cape Verde,Free
+45,2025-03-03,Poland,Free
+46,2025-02-06,Uzbekistan,Free
+47,2024-12-21,Lebanon,Free
+48,2025-01-13,Bangladesh,Free
+49,2025-08-14,Bermuda,Free
+50,2025-03-01,Switzerland,Basic
+51,2024-11-30,Belize,Basic
+52,2024-11-27,Bermuda,Premium
+53,2025-03-18,Jersey,Free
+54,2024-11-28,Bhutan,Premium
+55,2025-03-10,Samoa,Basic
+56,2025-09-16,Saint Vincent and the Grenadines,Basic
+57,2025-03-04,Holy See (Vatican City State),Free
+58,2025-06-13,Sudan,Premium
+59,2025-02-01,Bulgaria,Free
+60,2025-08-31,Moldova,Free
+61,2024-11-07,Bahamas,Premium
+62,2025-08-01,Namibia,Basic
+63,2025-04-18,Zimbabwe,Basic
+64,2025-05-18,Monaco,Premium
+65,2024-12-09,Monaco,Premium
+66,2025-10-15,Greenland,Free
+67,2025-03-18,Paraguay,Free
+68,2024-11-21,British Virgin Islands,Free
+69,2025-05-24,Isle of Man,Free
+70,2025-02-12,Guinea,Basic
+71,2025-09-09,Tunisia,Free
+72,2025-06-23,Papua New Guinea,Premium
+73,2025-06-19,Wallis and Futuna,Premium
+74,2025-09-30,Sao Tome and Principe,Free
+75,2025-09-21,Jamaica,Basic
+76,2025-03-11,Trinidad and Tobago,Premium
+77,2025-06-03,United States Virgin Islands,Free
+78,2025-01-04,Saint Helena,Basic
+79,2025-07-22,Austria,Free
+80,2024-11-18,France,Free
+81,2024-11-08,Netherlands Antilles,Free
+82,2025-07-05,Georgia,Free
+83,2025-01-18,Guinea,Basic
+84,2025-08-18,Bosnia and Herzegovina,Free
+85,2025-02-11,Morocco,Basic
+86,2024-11-21,Madagascar,Basic
+87,2025-09-19,Croatia,Basic
+88,2025-01-20,Cape Verde,Premium
+89,2025-09-23,Palestinian Territory,Free
+90,2024-11-30,Liberia,Basic
+91,2025-03-18,Czech Republic,Basic
+92,2025-02-06,Tanzania,Basic
+93,2025-04-16,Botswana,Premium
+94,2025-06-25,Guernsey,Free
+95,2025-09-10,Tanzania,Free
+96,2025-03-12,Moldova,Free
+97,2024-12-24,Heard Island and McDonald Islands,Free
+98,2025-03-14,Brazil,Free
+99,2025-03-08,Serbia,Free
+100,2025-01-11,Fiji,Free
+101,2025-07-09,Montserrat,Free
+102,2025-02-02,Czech Republic,Free
+103,2025-07-21,Sri Lanka,Free
+104,2025-10-20,Japan,Basic
+105,2025-07-14,Tanzania,Free
+106,2025-06-30,Monaco,Free
+107,2024-11-18,Seychelles,Basic
+108,2025-06-15,Svalbard & Jan Mayen Islands,Basic
+109,2025-06-25,Nigeria,Free
+110,2024-12-27,Nicaragua,Free
+111,2025-05-17,Peru,Free
+112,2025-08-01,Norway,Free
+113,2025-01-25,Moldova,Free
+114,2024-12-24,Anguilla,Basic
+115,2025-04-19,New Caledonia,Free
+116,2025-03-18,Vanuatu,Free
+117,2025-02-03,Palestinian Territory,Basic
+118,2025-10-16,Switzerland,Basic
+119,2025-06-27,Puerto Rico,Basic
+120,2025-07-16,Ethiopia,Free
+121,2025-05-26,Antarctica (the territory South of 60 deg S),Free
+122,2025-01-15,Cocos (Keeling) Islands,Free
+123,2025-07-14,Faroe Islands,Free
+124,2025-02-24,Reunion,Basic
+125,2025-09-14,Serbia,Basic
+126,2025-08-16,Georgia,Free
+127,2025-08-19,Uruguay,Free
+128,2024-11-12,Guadeloupe,Basic
+129,2025-01-18,Guernsey,Free
+130,2025-09-06,Albania,Free
+131,2024-11-03,Cocos (Keeling) Islands,Premium
+132,2025-08-30,Trinidad and Tobago,Free
+133,2025-02-21,Cambodia,Premium
+134,2025-03-26,Mongolia,Premium
+135,2025-02-02,Palestinian Territory,Premium
+136,2024-11-16,Iran,Free
+137,2025-01-11,Bangladesh,Premium
+138,2025-10-11,Cambodia,Premium
+139,2025-05-30,Saint Vincent and the Grenadines,Basic
+140,2025-09-27,North Macedonia,Free
+141,2025-07-27,Antarctica (the territory South of 60 deg S),Basic
+142,2025-02-21,Bermuda,Free
+143,2025-01-12,San Marino,Free
+144,2025-07-03,Marshall Islands,Free
+145,2025-05-03,Cuba,Basic
+146,2025-03-24,Honduras,Free
+147,2025-09-30,Italy,Free
+148,2025-10-12,Korea,Free
+149,2025-06-28,Guam,Premium
+150,2025-04-18,Cayman Islands,Premium
+151,2024-12-16,Heard Island and McDonald Islands,Free
+152,2025-02-01,Georgia,Free
+153,2024-12-15,Saint Helena,Free
+154,2025-01-25,Greece,Free
+155,2025-08-07,Singapore,Premium
+156,2025-05-28,Western Sahara,Free
+157,2025-05-19,Montenegro,Premium
+158,2025-02-01,Nepal,Free
+159,2025-08-08,Belize,Basic
+160,2025-06-06,Turks and Caicos Islands,Free
+161,2025-04-06,Austria,Free
+162,2025-10-05,Cape Verde,Basic
+163,2025-06-05,Cayman Islands,Free
+164,2025-03-26,Saudi Arabia,Premium
+165,2025-03-11,Niger,Free
+166,2025-01-15,Australia,Premium
+167,2024-12-14,Peru,Free
+168,2025-05-07,Belgium,Premium
+169,2025-05-01,Faroe Islands,Free
+170,2024-11-26,Kenya,Free
+171,2025-08-11,Panama,Free
+172,2024-11-09,Jamaica,Basic
+173,2025-09-21,Libyan Arab Jamahiriya,Free
+174,2024-12-03,New Caledonia,Free
+175,2024-12-20,Kenya,Basic
+176,2025-06-22,Israel,Premium
+177,2024-12-23,Faroe Islands,Free
+178,2025-08-25,Cuba,Basic
+179,2025-07-13,Saudi Arabia,Free
+180,2025-04-03,Malaysia,Basic
+181,2025-06-10,Brazil,Free
+182,2024-11-15,Guatemala,Basic
+183,2025-03-20,Jersey,Basic
+184,2025-03-19,Bouvet Island (Bouvetoya),Free
+185,2025-06-10,Finland,Basic
+186,2025-04-21,Philippines,Premium
+187,2025-05-15,Philippines,Basic
+188,2025-01-27,Nauru,Basic
+189,2025-05-24,Libyan Arab Jamahiriya,Free
+190,2025-09-21,Malta,Basic
+191,2024-10-26,Papua New Guinea,Free
+192,2025-07-13,Gambia,Free
+193,2025-07-28,Aruba,Free
+194,2024-12-05,Cyprus,Free
+195,2025-07-13,Indonesia,Premium
+196,2025-09-30,Netherlands Antilles,Basic
+197,2025-05-18,Azerbaijan,Basic
+198,2025-08-09,Albania,Free
+199,2025-02-02,Costa Rica,Premium
+200,2025-08-16,Gabon,Free
+201,2025-06-27,Yemen,Basic
+202,2025-03-03,Croatia,Premium
+203,2024-12-04,Seychelles,Basic
+204,2025-02-12,Burundi,Free
+205,2025-04-08,Serbia,Basic
+206,2024-12-22,Equatorial Guinea,Free
+207,2025-04-16,French Guiana,Premium
+208,2024-10-23,Greece,Free
+209,2025-07-29,British Indian Ocean Territory (Chagos Archipelago),Free
+210,2025-09-27,Albania,Free
+211,2025-07-28,Luxembourg,Free
+212,2025-02-01,San Marino,Free
+213,2025-05-04,Jersey,Free
+214,2025-08-13,China,Basic
+215,2024-12-30,Bulgaria,Basic
+216,2025-05-07,Hong Kong,Free
+217,2025-10-11,Martinique,Free
+218,2024-12-02,Romania,Premium
+219,2025-09-25,Denmark,Free
+220,2025-06-21,Macao,Free
+221,2025-02-14,Monaco,Free
+222,2025-09-13,Syrian Arab Republic,Premium
+223,2025-06-27,Paraguay,Basic
+224,2025-05-07,Sri Lanka,Free
+225,2025-06-15,Guinea,Free
+226,2025-01-07,Barbados,Free
+227,2024-12-20,Indonesia,Basic
+228,2025-03-16,Tokelau,Free
+229,2025-08-14,Saint Vincent and the Grenadines,Premium
+230,2024-12-23,Armenia,Basic
+231,2025-05-19,Jordan,Basic
+232,2025-08-20,Andorra,Premium
+233,2025-10-15,Kuwait,Premium
+234,2025-05-15,Uruguay,Free
+235,2025-10-13,Belarus,Free
+236,2024-10-22,Tokelau,Basic
+237,2025-06-11,Germany,Premium
+238,2025-02-24,Morocco,Free
+239,2025-04-29,Japan,Free
+240,2024-10-29,Montserrat,Free
+241,2024-12-04,Iraq,Free
+242,2025-10-17,Russian Federation,Basic
+243,2025-03-11,Northern Mariana Islands,Free
+244,2025-09-28,Israel,Free
+245,2025-09-09,French Guiana,Free
+246,2025-08-31,Brazil,Premium
+247,2025-02-18,Iraq,Premium
+248,2025-01-22,Angola,Free
+249,2024-11-13,Greece,Free
+250,2025-01-23,Chile,Basic
+251,2025-09-27,Spain,Basic
+252,2025-05-30,Yemen,Free
+253,2024-11-21,Niger,Free
+254,2024-11-24,Kuwait,Premium
+255,2025-08-02,Switzerland,Basic
+256,2025-04-28,Portugal,Free
+257,2025-09-03,Uruguay,Free
+258,2024-11-17,Guyana,Free
+259,2025-08-13,Benin,Basic
+260,2025-05-16,Jordan,Basic
+261,2025-08-15,Tanzania,Free
+262,2024-12-09,Botswana,Premium
+263,2024-12-10,Ecuador,Free
+264,2025-07-05,Jordan,Basic
+265,2025-04-24,Namibia,Free
+266,2025-05-23,Iran,Basic
+267,2024-12-25,Malta,Free
+268,2025-02-01,Belgium,Premium
+269,2025-05-14,Indonesia,Free
+270,2025-09-25,Trinidad and Tobago,Basic
+271,2025-06-14,Georgia,Premium
+272,2025-04-04,Samoa,Free
+273,2025-01-12,Guadeloupe,Basic
+274,2025-10-17,Cyprus,Free
+275,2025-05-19,Grenada,Premium
+276,2025-08-11,Slovakia (Slovak Republic),Free
+277,2025-08-01,Chile,Premium
+278,2025-07-16,Belarus,Premium
+279,2025-01-08,Malawi,Free
+280,2025-07-25,North Macedonia,Free
+281,2025-02-20,Brazil,Free
+282,2025-03-25,Marshall Islands,Premium
+283,2025-07-09,Malawi,Free
+284,2025-07-01,Congo,Premium
+285,2025-03-16,United Kingdom,Free
+286,2025-04-10,Singapore,Premium
+287,2025-10-06,Guernsey,Basic
+288,2025-05-11,Guernsey,Free
+289,2025-04-15,Saint Lucia,Free
+290,2024-12-07,Svalbard & Jan Mayen Islands,Free
+291,2025-01-26,Oman,Free
+292,2025-01-17,Suriname,Premium
+293,2024-11-15,Cameroon,Free
+294,2025-03-02,Dominica,Premium
+295,2024-10-30,Bosnia and Herzegovina,Basic
+296,2025-06-07,Cameroon,Free
+297,2025-05-25,Equatorial Guinea,Free
+298,2025-01-19,Congo,Free
+299,2025-06-07,China,Premium
+300,2025-01-15,Netherlands,Free
+301,2024-10-24,Cape Verde,Free
+302,2024-11-18,Senegal,Premium
+303,2025-07-23,Senegal,Free
+304,2025-06-24,Palau,Basic
+305,2024-11-13,Belarus,Basic
+306,2025-01-18,Christmas Island,Free
+307,2024-11-17,Zambia,Free
+308,2025-10-08,Sierra Leone,Premium
+309,2024-11-03,Niue,Premium
+310,2025-09-20,Lithuania,Free
+311,2025-02-27,Kyrgyz Republic,Free
+312,2024-11-18,Saudi Arabia,Free
+313,2025-05-09,Mongolia,Basic
+314,2025-01-22,Senegal,Basic
+315,2025-02-07,Mozambique,Free
+316,2025-07-08,Kiribati,Premium
+317,2025-04-28,Pitcairn Islands,Premium
+318,2025-01-13,Uzbekistan,Basic
+319,2025-05-19,Turkmenistan,Free
+320,2024-12-12,Mongolia,Free
+321,2025-07-29,Norway,Free
+322,2025-10-20,North Macedonia,Free
+323,2025-09-29,Nigeria,Free
+324,2025-05-31,Gibraltar,Free
+325,2025-06-02,Tonga,Free
+326,2025-04-23,Niue,Basic
+327,2025-01-24,Germany,Free
+328,2025-08-22,Canada,Basic
+329,2025-04-23,Kazakhstan,Free
+330,2025-08-31,Bangladesh,Basic
+331,2025-03-29,Latvia,Basic
+332,2025-01-03,Kenya,Free
+333,2024-11-27,Norfolk Island,Free
+334,2024-11-28,Gabon,Free
+335,2025-07-04,South Africa,Basic
+336,2025-04-07,Falkland Islands (Malvinas),Premium
+337,2025-03-08,Nauru,Free
+338,2025-04-04,Azerbaijan,Free
+339,2025-03-30,Guinea,Basic
+340,2025-04-21,Madagascar,Free
+341,2025-09-22,Barbados,Free
+342,2025-08-01,Georgia,Basic
+343,2024-11-12,Kyrgyz Republic,Free
+344,2025-07-10,Korea,Free
+345,2025-07-02,Argentina,Free
+346,2025-06-29,Azerbaijan,Free
+347,2024-11-29,Heard Island and McDonald Islands,Free
+348,2024-11-14,Switzerland,Free
+349,2025-03-27,France,Premium
+350,2025-07-31,Belarus,Basic
+351,2025-03-02,Oman,Free
+352,2025-08-28,Tonga,Basic
+353,2025-09-21,Timor-Leste,Free
+354,2024-12-03,Bermuda,Free
+355,2025-01-26,Nicaragua,Free
+356,2025-01-04,Nepal,Premium
+357,2025-01-03,Madagascar,Premium
+358,2025-05-18,Hungary,Free
+359,2025-04-14,Kyrgyz Republic,Premium
+360,2024-12-15,Mozambique,Free
+361,2025-04-03,Micronesia,Free
+362,2025-01-01,Zimbabwe,Free
+363,2025-02-07,Somalia,Premium
+364,2025-04-19,Saint Vincent and the Grenadines,Premium
+365,2025-01-27,Ukraine,Free
+366,2025-09-26,Armenia,Free
+367,2025-10-15,Korea,Free
+368,2024-11-20,United States of America,Free
+369,2025-04-12,Sudan,Free
+370,2025-08-31,Montserrat,Premium
+371,2025-09-21,Pakistan,Free
+372,2025-09-19,Comoros,Free
+373,2025-05-23,Gibraltar,Free
+374,2024-11-29,Netherlands,Basic
+375,2024-11-10,Lebanon,Premium
+376,2025-07-02,Macao,Basic
+377,2025-05-19,Canada,Free
+378,2025-09-11,Bahamas,Premium
+379,2024-10-27,Korea,Free
+380,2024-11-27,Bosnia and Herzegovina,Basic
+381,2025-10-16,Sudan,Free
+382,2025-08-10,United Arab Emirates,Premium
+383,2025-09-16,Taiwan,Free
+384,2025-01-21,Guam,Basic
+385,2024-12-25,Rwanda,Premium
+386,2025-03-28,Belize,Premium
+387,2025-04-28,Madagascar,Premium
+388,2025-04-26,Oman,Basic
+389,2025-01-13,China,Free
+390,2025-09-22,Armenia,Basic
+391,2025-03-26,Egypt,Free
+392,2025-10-07,Russian Federation,Basic
+393,2024-11-13,Kazakhstan,Basic
+394,2024-12-24,Kazakhstan,Free
+395,2025-03-18,Malta,Free
+396,2024-10-22,Mali,Free
+397,2025-03-22,New Zealand,Free
+398,2025-02-01,Cayman Islands,Basic
+399,2025-10-16,Haiti,Basic
+400,2025-08-22,Holy See (Vatican City State),Free
+401,2025-08-22,United States Virgin Islands,Basic
+402,2025-04-16,Finland,Basic
+403,2025-02-09,Iceland,Free
+404,2025-04-04,Ireland,Basic
+405,2025-07-19,Singapore,Premium
+406,2025-08-01,Guadeloupe,Free
+407,2025-08-22,Philippines,Basic
+408,2025-05-25,Netherlands Antilles,Premium
+409,2025-07-06,Austria,Premium
+410,2025-07-28,Somalia,Basic
+411,2025-04-29,Norfolk Island,Premium
+412,2024-12-21,Oman,Free
+413,2025-01-03,Grenada,Basic
+414,2025-02-14,Bahrain,Free
+415,2025-01-14,Greenland,Free
+416,2024-11-13,Bhutan,Free
+417,2025-06-03,Moldova,Free
+418,2025-08-03,Philippines,Premium
+419,2025-05-20,Hungary,Basic
+420,2024-11-14,Finland,Premium
+421,2025-08-08,El Salvador,Basic
+422,2025-02-20,Saint Kitts and Nevis,Free
+423,2024-11-13,Timor-Leste,Free
+424,2024-11-10,Palestinian Territory,Free
+425,2025-06-05,United States of America,Premium
+426,2025-04-25,Netherlands,Free
+427,2025-05-05,Tunisia,Free
+428,2025-10-14,Canada,Premium
+429,2025-09-18,Grenada,Premium
+430,2025-05-16,Belgium,Free
+431,2024-12-22,Myanmar,Basic
+432,2024-11-13,Panama,Basic
+433,2025-05-07,Cambodia,Basic
+434,2024-11-22,United States Virgin Islands,Free
+435,2025-09-17,Guernsey,Free
+436,2025-01-02,Georgia,Free
+437,2024-11-17,Palau,Premium
+438,2025-06-10,Qatar,Basic
+439,2024-11-17,Panama,Premium
+440,2025-07-11,India,Basic
+441,2025-09-21,Bulgaria,Free
+442,2025-01-21,Nepal,Basic
+443,2025-03-27,Russian Federation,Premium
+444,2024-12-07,Wallis and Futuna,Premium
+445,2025-10-22,Belize,Basic
+446,2025-10-02,Georgia,Basic
+447,2025-05-31,Monaco,Free
+448,2025-01-25,Honduras,Free
+449,2025-06-03,Norway,Basic
+450,2025-06-09,Somalia,Premium
+451,2024-11-06,Greenland,Free
+452,2025-06-19,Suriname,Free
+453,2024-11-22,Brunei Darussalam,Basic
+454,2025-04-02,Paraguay,Free
+455,2025-07-04,Reunion,Free
+456,2025-06-05,Switzerland,Free
+457,2025-05-29,Yemen,Free
+458,2025-05-13,Saint Vincent and the Grenadines,Basic
+459,2025-02-21,Poland,Basic
+460,2025-10-20,United States Minor Outlying Islands,Free
+461,2025-01-31,Malta,Basic
+462,2025-01-09,Bermuda,Basic
+463,2025-07-09,Oman,Basic
+464,2025-07-27,Paraguay,Free
+465,2025-02-21,Jamaica,Free
+466,2025-01-22,Malawi,Free
+467,2025-02-02,Guyana,Free
+468,2025-03-24,Andorra,Premium
+469,2024-12-11,Guyana,Basic
+470,2025-07-09,Georgia,Premium
+471,2025-06-29,Cocos (Keeling) Islands,Basic
+472,2025-02-15,Zambia,Premium
+473,2025-04-17,Croatia,Basic
+474,2025-02-21,Guam,Premium
+475,2025-10-17,Yemen,Basic
+476,2025-08-09,Seychelles,Free
+477,2025-10-20,Libyan Arab Jamahiriya,Free
+478,2024-11-19,Congo,Premium
+479,2024-10-25,Czech Republic,Free
+480,2025-04-17,Burundi,Premium
+481,2025-06-20,Cape Verde,Premium
+482,2025-05-28,Belarus,Free
+483,2024-11-29,French Polynesia,Free
+484,2024-11-19,Tanzania,Free
+485,2025-05-18,Solomon Islands,Free
+486,2025-01-12,Bolivia,Premium
+487,2025-05-06,Madagascar,Basic
+488,2025-02-01,Sierra Leone,Free
+489,2024-12-12,Mauritius,Free
+490,2025-10-19,Syrian Arab Republic,Free
+491,2025-03-06,Saint Vincent and the Grenadines,Free
+492,2025-09-29,Turks and Caicos Islands,Free
+493,2024-11-17,Malta,Free
+494,2025-09-28,Argentina,Free
+495,2025-01-24,Panama,Free
+496,2025-03-14,Guadeloupe,Basic
+497,2025-02-09,Turkey,Premium
+498,2024-12-22,Seychelles,Premium
+499,2025-04-10,Niger,Basic
+500,2025-09-10,Bulgaria,Premium
+501,2025-05-20,Nepal,Free
+502,2025-07-22,Honduras,Premium
+503,2025-02-16,Cape Verde,Premium
+504,2025-06-16,Central African Republic,Basic
+505,2025-08-31,Cocos (Keeling) Islands,Free
+506,2025-07-02,Switzerland,Basic
+507,2025-05-15,Puerto Rico,Free
+508,2024-10-25,Sierra Leone,Free
+509,2025-07-08,Nigeria,Free
+510,2025-09-04,Sudan,Free
+511,2025-05-25,United Kingdom,Basic
+512,2025-02-15,Chad,Free
+513,2025-10-18,Saint Helena,Basic
+514,2025-07-06,Kazakhstan,Premium
+515,2024-12-01,Aruba,Free
+516,2025-10-21,Isle of Man,Basic
+517,2025-09-28,Haiti,Premium
+518,2024-12-13,Philippines,Free
+519,2025-02-01,Saint Helena,Premium
+520,2024-12-05,Dominica,Premium
+521,2025-10-02,Kenya,Free
+522,2024-12-02,New Zealand,Free
+523,2025-08-06,Finland,Basic
+524,2025-05-24,Sao Tome and Principe,Free
+525,2024-12-21,San Marino,Premium
+526,2025-02-04,Slovenia,Basic
+527,2025-02-08,Kiribati,Free
+528,2025-06-13,Djibouti,Basic
+529,2025-01-11,Martinique,Basic
+530,2025-07-27,Dominican Republic,Basic
+531,2025-03-04,Georgia,Premium
+532,2025-01-09,Sudan,Premium
+533,2025-07-15,Slovenia,Free
+534,2025-06-25,Latvia,Free
+535,2025-09-18,United Kingdom,Basic
+536,2025-02-01,Syrian Arab Republic,Basic
+537,2025-05-06,Congo,Basic
+538,2025-04-29,Heard Island and McDonald Islands,Free
+539,2025-01-27,Philippines,Free
+540,2025-10-08,Yemen,Basic
+541,2025-10-09,Montserrat,Basic
+542,2025-09-15,Kazakhstan,Basic
+543,2024-11-10,Kyrgyz Republic,Basic
+544,2024-11-26,Seychelles,Free
+545,2025-06-25,Finland,Free
+546,2025-04-04,Slovakia (Slovak Republic),Free
+547,2025-09-09,Hong Kong,Free
+548,2025-02-06,Macao,Free
+549,2024-11-08,Marshall Islands,Free
+550,2024-10-23,Italy,Premium
+551,2025-02-28,Central African Republic,Premium
+552,2025-08-17,Svalbard & Jan Mayen Islands,Free
+553,2024-12-11,Cook Islands,Free
+554,2025-06-26,Spain,Premium
+555,2025-01-31,Netherlands,Basic
+556,2024-12-23,Burundi,Basic
+557,2025-08-05,Tunisia,Free
+558,2025-04-11,El Salvador,Free
+559,2025-05-24,Austria,Premium
+560,2025-07-23,Norway,Free
+561,2025-04-06,Liberia,Free
+562,2025-05-27,Tunisia,Free
+563,2024-10-25,Holy See (Vatican City State),Free
+564,2024-12-04,Micronesia,Basic
+565,2024-11-20,Vietnam,Free
+566,2025-09-29,Bosnia and Herzegovina,Free
+567,2025-07-17,Rwanda,Free
+568,2025-10-08,Tanzania,Free
+569,2024-12-18,Maldives,Free
+570,2025-05-21,Thailand,Basic
+571,2024-11-04,British Virgin Islands,Basic
+572,2025-09-11,Finland,Basic
+573,2025-03-14,Belize,Free
+574,2025-06-05,Serbia,Free
+575,2025-05-24,Central African Republic,Basic
+576,2024-12-18,Faroe Islands,Basic
+577,2025-04-06,Korea,Premium
+578,2024-12-10,United Kingdom,Premium
+579,2024-11-07,Malaysia,Free
+580,2025-02-18,Cameroon,Free
+581,2025-03-12,Switzerland,Free
+582,2025-10-06,Jordan,Premium
+583,2025-10-19,Bermuda,Free
+584,2025-08-27,Yemen,Free
+585,2025-09-21,United States Minor Outlying Islands,Basic
+586,2024-11-06,Cyprus,Basic
+587,2025-10-06,Svalbard & Jan Mayen Islands,Basic
+588,2025-03-09,Korea,Basic
+589,2025-01-11,Turks and Caicos Islands,Free
+590,2025-07-13,Guernsey,Free
+591,2025-01-26,Venezuela,Premium
+592,2025-07-08,Anguilla,Basic
+593,2024-11-30,Israel,Basic
+594,2025-03-08,Austria,Free
+595,2025-08-20,Indonesia,Free
+596,2025-05-27,Macao,Basic
+597,2025-09-30,Holy See (Vatican City State),Basic
+598,2025-09-26,Dominica,Free
+599,2025-03-28,Hungary,Basic
+600,2025-06-20,Belgium,Premium
+601,2025-08-09,Holy See (Vatican City State),Free
+602,2024-12-21,Czech Republic,Basic
+603,2025-10-16,Antarctica (the territory South of 60 deg S),Free
+604,2025-10-18,Ghana,Free
+605,2025-01-21,Venezuela,Free
+606,2025-09-22,Bolivia,Free
+607,2024-12-24,Taiwan,Basic
+608,2025-08-28,Rwanda,Free
+609,2025-09-01,Pakistan,Free
+610,2024-12-29,Grenada,Premium
+611,2025-09-29,Somalia,Free
+612,2025-03-31,Cameroon,Free
+613,2024-10-31,Burundi,Basic
+614,2024-12-30,Argentina,Premium
+615,2025-08-04,France,Premium
+616,2025-10-16,United States Virgin Islands,Free
+617,2025-02-28,Switzerland,Free
+618,2025-08-21,Latvia,Free
+619,2025-10-18,Qatar,Premium
+620,2025-03-30,Switzerland,Free
+621,2025-08-29,Burundi,Free
+622,2025-07-09,Senegal,Premium
+623,2025-09-22,Romania,Free
+624,2025-08-03,Latvia,Premium
+625,2025-09-01,Kiribati,Basic
+626,2025-01-26,Nicaragua,Basic
+627,2025-02-02,Albania,Free
+628,2024-12-22,United Kingdom,Premium
+629,2025-08-23,Belgium,Free
+630,2025-07-21,Andorra,Free
+631,2024-12-02,Equatorial Guinea,Premium
+632,2025-03-19,Cuba,Free
+633,2025-09-25,Syrian Arab Republic,Basic
+634,2024-11-06,Canada,Free
+635,2025-09-20,Mexico,Free
+636,2025-04-22,Wallis and Futuna,Free
+637,2025-01-16,Saint Lucia,Basic
+638,2025-01-07,New Caledonia,Basic
+639,2025-09-04,Marshall Islands,Basic
+640,2025-10-13,Jamaica,Basic
+641,2025-04-18,Bouvet Island (Bouvetoya),Basic
+642,2025-03-06,Singapore,Free
+643,2025-02-17,France,Free
+644,2025-09-05,Dominica,Basic
+645,2025-08-26,Gabon,Premium
+646,2025-09-25,British Virgin Islands,Premium
+647,2025-01-18,Australia,Free
+648,2025-01-16,Dominican Republic,Free
+649,2024-10-31,Italy,Free
+650,2025-07-05,Northern Mariana Islands,Premium
+651,2025-01-05,South Africa,Basic
+652,2025-03-25,Nigeria,Basic
+653,2025-02-26,Kuwait,Free
+654,2025-02-07,Bahrain,Free
+655,2025-09-22,Bouvet Island (Bouvetoya),Free
+656,2024-11-17,Taiwan,Premium
+657,2025-08-18,United Kingdom,Free
+658,2025-02-07,Luxembourg,Premium
+659,2025-03-07,Nepal,Basic
+660,2025-06-28,Mauritania,Premium
+661,2025-05-07,Andorra,Free
+662,2025-03-26,Norfolk Island,Free
+663,2025-07-12,Malaysia,Basic
+664,2025-09-14,Morocco,Free
+665,2025-05-18,Dominican Republic,Free
+666,2025-02-27,Saint Barthelemy,Premium
+667,2025-10-21,Cambodia,Basic
+668,2024-11-01,French Guiana,Basic
+669,2024-12-05,Japan,Basic
+670,2025-09-27,Afghanistan,Free
+671,2025-01-31,Nicaragua,Basic
+672,2024-12-30,Guinea,Premium
+673,2025-06-04,Dominican Republic,Free
+674,2025-02-02,Montserrat,Free
+675,2024-11-05,Israel,Free
+676,2024-12-03,Colombia,Basic
+677,2025-06-10,Papua New Guinea,Basic
+678,2025-04-08,Paraguay,Free
+679,2025-03-05,Belize,Basic
+680,2025-07-31,Malta,Free
+681,2025-08-23,Guyana,Basic
+682,2025-02-20,Bangladesh,Free
+683,2025-04-09,Zimbabwe,Premium
+684,2025-06-14,Malta,Basic
+685,2025-05-08,Mayotte,Premium
+686,2024-12-05,Madagascar,Free
+687,2025-03-20,Solomon Islands,Premium
+688,2025-10-06,Madagascar,Free
+689,2025-06-02,Micronesia,Free
+690,2025-01-03,Angola,Free
+691,2025-01-28,Iceland,Free
+692,2024-11-08,Tunisia,Free
+693,2025-07-24,Latvia,Free
+694,2025-04-09,Aruba,Free
+695,2024-10-22,North Macedonia,Premium
+696,2025-05-11,Iceland,Premium
+697,2025-10-16,Holy See (Vatican City State),Free
+698,2025-08-31,El Salvador,Free
+699,2025-05-19,San Marino,Basic
+700,2025-07-15,Andorra,Free
+701,2025-07-28,Guinea-Bissau,Basic
+702,2025-10-22,Solomon Islands,Free
+703,2025-08-06,Bangladesh,Free
+704,2025-08-04,Guatemala,Basic
+705,2025-07-09,Dominican Republic,Free
+706,2025-01-06,Saint Martin,Free
+707,2025-03-12,Palestinian Territory,Basic
+708,2025-04-07,Niue,Free
+709,2024-11-18,Bosnia and Herzegovina,Free
+710,2025-07-06,Sierra Leone,Free
+711,2025-10-14,Mozambique,Premium
+712,2025-02-27,Saint Pierre and Miquelon,Basic
+713,2025-06-21,Saudi Arabia,Free
+714,2025-02-20,Grenada,Free
+715,2025-07-06,Burkina Faso,Basic
+716,2025-09-16,Aruba,Free
+717,2024-12-09,Guinea,Free
+718,2025-07-28,Mayotte,Premium
+719,2025-10-06,Guadeloupe,Free
+720,2025-02-15,Suriname,Free
+721,2025-05-06,Norway,Free
+722,2025-02-19,China,Free
+723,2025-07-07,Switzerland,Premium
+724,2025-03-29,Slovakia (Slovak Republic),Basic
+725,2025-02-25,Poland,Premium
+726,2025-03-27,Kyrgyz Republic,Free
+727,2025-07-19,Qatar,Premium
+728,2025-02-13,Lesotho,Free
+729,2025-05-25,Norfolk Island,Free
+730,2024-12-10,Cocos (Keeling) Islands,Basic
+731,2025-01-04,Sudan,Free
+732,2025-04-03,Burkina Faso,Free
+733,2025-07-07,Bahrain,Premium
+734,2025-10-22,Saint Barthelemy,Basic
+735,2025-03-18,Singapore,Premium
+736,2025-07-12,Western Sahara,Basic
+737,2025-08-08,Kuwait,Free
+738,2025-10-07,Argentina,Premium
+739,2024-12-28,French Polynesia,Basic
+740,2025-06-18,Cook Islands,Free
+741,2025-05-31,Aruba,Basic
+742,2025-02-15,Somalia,Free
+743,2025-03-28,Cook Islands,Free
+744,2025-05-22,Turks and Caicos Islands,Free
+745,2025-09-10,Armenia,Basic
+746,2024-10-22,Germany,Premium
+747,2025-02-17,Venezuela,Basic
+748,2025-02-10,Georgia,Premium
+749,2025-01-11,Malaysia,Free
+750,2025-04-06,Indonesia,Basic
+751,2025-08-23,Suriname,Basic
+752,2025-06-04,Mayotte,Premium
+753,2025-06-14,Lebanon,Free
+754,2025-07-03,El Salvador,Free
+755,2025-02-24,Argentina,Free
+756,2025-04-20,Sao Tome and Principe,Premium
+757,2025-04-11,Oman,Free
+758,2025-04-11,Comoros,Free
+759,2025-07-11,France,Basic
+760,2025-01-12,Guinea-Bissau,Free
+761,2025-05-08,Tokelau,Basic
+762,2025-04-23,Slovakia (Slovak Republic),Free
+763,2025-08-26,Australia,Basic
+764,2025-10-06,Tonga,Basic
+765,2025-08-27,Palau,Free
+766,2025-08-03,Greenland,Free
+767,2024-12-26,Faroe Islands,Premium
+768,2025-07-04,British Virgin Islands,Premium
+769,2024-11-23,South Georgia and the South Sandwich Islands,Basic
+770,2025-02-09,Heard Island and McDonald Islands,Free
+771,2025-05-10,Jordan,Free
+772,2025-07-06,Tuvalu,Free
+773,2025-06-24,Iran,Basic
+774,2025-06-19,Samoa,Free
+775,2025-03-01,Kazakhstan,Basic
+776,2024-11-27,Ukraine,Basic
+777,2025-09-04,Zimbabwe,Basic
+778,2025-08-09,Hungary,Free
+779,2025-01-21,Guadeloupe,Free
+780,2025-07-10,Colombia,Premium
+781,2025-02-19,Luxembourg,Basic
+782,2025-01-17,Puerto Rico,Free
+783,2025-08-31,Luxembourg,Basic
+784,2025-01-07,Heard Island and McDonald Islands,Basic
+785,2024-12-18,Uzbekistan,Basic
+786,2024-10-31,South Georgia and the South Sandwich Islands,Premium
+787,2024-11-08,Maldives,Free
+788,2025-01-25,Ethiopia,Free
+789,2025-04-24,Spain,Basic
+790,2025-06-16,Belize,Free
+791,2025-09-17,Saint Lucia,Free
+792,2025-08-16,Jamaica,Basic
+793,2024-11-19,Belgium,Free
+794,2025-04-16,Jersey,Basic
+795,2025-03-31,Netherlands,Premium
+796,2025-10-01,Swaziland,Basic
+797,2025-06-23,Cocos (Keeling) Islands,Basic
+798,2025-06-02,Mayotte,Free
+799,2025-01-05,French Polynesia,Premium
+800,2025-07-27,Gibraltar,Free
+801,2025-07-19,Bosnia and Herzegovina,Free
+802,2025-03-20,Belgium,Basic
+803,2025-05-01,Greece,Basic
+804,2025-03-26,Panama,Basic
+805,2025-01-24,French Polynesia,Premium
+806,2024-12-18,Gambia,Basic
+807,2025-07-03,Kiribati,Free
+808,2025-07-16,Netherlands,Basic
+809,2024-10-24,Saint Barthelemy,Free
+810,2025-10-03,Japan,Free
+811,2025-08-09,Chad,Free
+812,2025-09-21,Portugal,Free
+813,2025-08-17,Kenya,Free
+814,2025-09-30,Guernsey,Basic
+815,2024-12-02,Kiribati,Basic
+816,2025-08-20,Armenia,Basic
+817,2025-04-05,Saint Lucia,Basic
+818,2025-01-14,Trinidad and Tobago,Basic
+819,2024-12-29,United States Minor Outlying Islands,Free
+820,2025-08-30,Guinea,Basic
+821,2025-07-19,Nicaragua,Free
+822,2025-05-11,Jordan,Basic
+823,2025-04-20,Falkland Islands (Malvinas),Premium
+824,2024-11-10,Northern Mariana Islands,Basic
+825,2025-05-26,Somalia,Free
+826,2025-01-26,Yemen,Free
+827,2025-10-13,Azerbaijan,Premium
+828,2025-09-16,Belarus,Premium
+829,2024-12-08,Paraguay,Free
+830,2025-04-17,Northern Mariana Islands,Basic
+831,2024-12-12,Iraq,Free
+832,2025-08-29,Haiti,Premium
+833,2025-04-20,Malaysia,Free
+834,2025-07-08,Spain,Basic
+835,2025-05-16,San Marino,Free
+836,2025-05-27,Philippines,Basic
+837,2025-06-10,Cayman Islands,Free
+838,2025-02-22,Zambia,Premium
+839,2025-08-11,Antarctica (the territory South of 60 deg S),Basic
+840,2025-10-03,Cambodia,Basic
+841,2025-04-11,Thailand,Basic
+842,2025-06-16,New Caledonia,Free
+843,2025-09-03,Philippines,Basic
+844,2025-07-28,Slovenia,Free
+845,2025-10-03,Kazakhstan,Premium
+846,2025-05-06,Antigua and Barbuda,Basic
+847,2025-04-05,Brunei Darussalam,Premium
+848,2025-09-09,Bangladesh,Basic
+849,2025-10-09,Dominica,Basic
+850,2025-05-22,Slovakia (Slovak Republic),Premium
+851,2025-04-13,Oman,Premium
+852,2025-10-05,Haiti,Free
+853,2024-12-22,Guyana,Premium
+854,2025-08-06,Hungary,Free
+855,2025-09-21,Zambia,Free
+856,2025-04-24,Montenegro,Free
+857,2025-04-14,Antigua and Barbuda,Basic
+858,2025-01-30,Netherlands,Free
+859,2025-08-09,Cape Verde,Free
+860,2025-01-26,Philippines,Premium
+861,2025-09-13,Korea,Free
+862,2025-06-26,Yemen,Free
+863,2025-02-06,Heard Island and McDonald Islands,Basic
+864,2025-08-15,Holy See (Vatican City State),Basic
+865,2025-08-20,Kenya,Free
+866,2025-05-12,Serbia,Free
+867,2025-04-28,Belarus,Free
+868,2025-06-22,Montserrat,Free
+869,2025-01-22,Burundi,Free
+870,2025-02-05,Marshall Islands,Free
+871,2025-04-10,Haiti,Basic
+872,2024-11-21,Indonesia,Premium
+873,2025-07-26,Germany,Free
+874,2025-02-09,Pakistan,Basic
+875,2025-01-21,Fiji,Premium
+876,2025-02-04,Egypt,Premium
+877,2025-03-01,Brazil,Free
+878,2025-02-23,Anguilla,Premium
+879,2025-10-03,Saint Pierre and Miquelon,Free
+880,2025-05-19,Colombia,Premium
+881,2024-11-22,Luxembourg,Free
+882,2024-12-14,Maldives,Free
+883,2024-12-19,Iceland,Basic
+884,2025-01-19,United States Minor Outlying Islands,Premium
+885,2025-03-19,Monaco,Free
+886,2025-07-18,British Indian Ocean Territory (Chagos Archipelago),Free
+887,2024-12-20,Estonia,Free
+888,2025-07-23,Singapore,Free
+889,2025-01-13,Eritrea,Free
+890,2024-11-15,Romania,Basic
+891,2025-04-01,Kiribati,Premium
+892,2025-03-29,Croatia,Premium
+893,2025-02-27,New Zealand,Basic
+894,2025-05-20,France,Premium
+895,2025-04-20,Puerto Rico,Free
+896,2025-04-01,United States Virgin Islands,Free
+897,2024-11-15,Liechtenstein,Free
+898,2025-01-10,Cook Islands,Free
+899,2025-09-10,British Virgin Islands,Basic
+900,2025-04-03,Burkina Faso,Basic
+901,2025-03-22,Timor-Leste,Free
+902,2025-10-08,Barbados,Free
+903,2025-08-16,Korea,Basic
+904,2025-06-05,China,Premium
+905,2025-07-19,United Arab Emirates,Premium
+906,2024-10-29,Rwanda,Basic
+907,2025-09-19,Kenya,Basic
+908,2025-09-29,Benin,Basic
+909,2025-08-15,Sudan,Basic
+910,2025-06-02,Pitcairn Islands,Basic
+911,2025-03-18,Tanzania,Basic
+912,2025-04-25,Ghana,Free
+913,2024-10-24,Papua New Guinea,Basic
+914,2025-03-07,Guatemala,Free
+915,2025-02-14,Russian Federation,Premium
+916,2025-08-10,Bahrain,Free
+917,2025-03-22,Mexico,Free
+918,2025-09-18,Mauritius,Free
+919,2025-10-03,French Guiana,Free
+920,2025-09-11,Uganda,Free
+921,2025-04-02,French Southern Territories,Free
+922,2025-05-19,Thailand,Free
+923,2025-08-08,Cayman Islands,Basic
+924,2025-08-03,Rwanda,Free
+925,2025-05-22,Russian Federation,Premium
+926,2025-08-28,Vanuatu,Premium
+927,2025-06-13,Reunion,Basic
+928,2025-10-05,Northern Mariana Islands,Free
+929,2025-01-15,China,Premium
+930,2025-04-29,South Africa,Premium
+931,2025-01-15,Guyana,Basic
+932,2025-02-04,Malawi,Free
+933,2025-04-09,Czech Republic,Premium
+934,2025-04-28,British Virgin Islands,Free
+935,2024-11-02,Cook Islands,Premium
+936,2025-03-22,Somalia,Basic
+937,2025-03-01,Burundi,Premium
+938,2025-07-08,Dominica,Free
+939,2025-07-12,Somalia,Basic
+940,2025-08-27,Lithuania,Free
+941,2025-03-28,Anguilla,Premium
+942,2025-07-30,Guyana,Free
+943,2024-12-25,Micronesia,Premium
+944,2025-09-13,Montserrat,Basic
+945,2025-04-21,Heard Island and McDonald Islands,Basic
+946,2025-10-14,Lao People's Democratic Republic,Free
+947,2024-12-10,Spain,Free
+948,2025-06-20,Micronesia,Basic
+949,2025-05-17,Bulgaria,Basic
+950,2024-11-01,New Zealand,Basic
+951,2025-10-09,Turks and Caicos Islands,Free
+952,2025-03-24,Benin,Free
+953,2025-06-08,Bahrain,Free
+954,2025-05-29,Georgia,Premium
+955,2025-07-06,Indonesia,Basic
+956,2024-11-01,Saint Barthelemy,Free
+957,2024-11-23,Saint Helena,Basic
+958,2025-06-28,Lesotho,Basic
+959,2025-04-06,Malta,Basic
+960,2024-12-13,Isle of Man,Basic
+961,2025-09-23,Seychelles,Premium
+962,2025-04-19,Ireland,Basic
+963,2024-12-31,Swaziland,Free
+964,2024-11-10,Morocco,Free
+965,2025-01-31,Barbados,Free
+966,2025-03-18,Brunei Darussalam,Premium
+967,2025-02-26,Ghana,Premium
+968,2025-01-12,Norway,Free
+969,2025-04-16,Barbados,Free
+970,2025-02-25,Korea,Free
+971,2025-03-02,Lao People's Democratic Republic,Premium
+972,2025-08-13,Pitcairn Islands,Free
+973,2025-09-28,Maldives,Basic
+974,2025-03-18,Guatemala,Free
+975,2025-02-07,Brunei Darussalam,Basic
+976,2025-08-10,Turkey,Free
+977,2025-09-10,Switzerland,Free
+978,2025-04-03,Slovakia (Slovak Republic),Free
+979,2025-01-27,Micronesia,Free
+980,2025-09-11,Northern Mariana Islands,Premium
+981,2024-11-22,Namibia,Free
+982,2025-04-22,Cocos (Keeling) Islands,Free
+983,2024-10-29,Seychelles,Premium
+984,2025-08-08,Bulgaria,Free
+985,2025-05-19,Jersey,Free
+986,2024-11-11,Macao,Free
+987,2025-03-06,United States Minor Outlying Islands,Premium
+988,2025-01-17,Trinidad and Tobago,Free
+989,2025-07-01,Azerbaijan,Free
+990,2024-11-17,Switzerland,Free
+991,2025-08-21,British Virgin Islands,Premium
+992,2025-07-02,Maldives,Free
+993,2024-11-06,Cape Verde,Basic
+994,2025-08-10,Gabon,Basic
+995,2024-11-03,Chad,Free
+996,2025-01-26,Central African Republic,Free
+997,2025-01-07,Gibraltar,Premium
+998,2025-09-12,Vietnam,Free
+999,2024-10-29,Russian Federation,Basic
+1000,2025-06-20,Czech Republic,Free
+1001,2024-12-20,Guatemala,Basic
+1002,2025-01-22,Yemen,Premium
+1003,2024-12-10,Wallis and Futuna,Free
+1004,2025-04-23,Maldives,Free
+1005,2025-07-08,Ukraine,Premium
+1006,2024-12-05,Finland,Basic
+1007,2025-05-29,Tanzania,Free
+1008,2025-01-14,Belgium,Free
+1009,2025-04-20,El Salvador,Free
+1010,2025-07-20,Congo,Free
+1011,2025-01-29,North Macedonia,Basic
+1012,2025-08-15,Zimbabwe,Free
+1013,2025-03-14,Micronesia,Free
+1014,2024-12-26,Falkland Islands (Malvinas),Free
+1015,2025-06-14,Brunei Darussalam,Free
+1016,2025-06-14,Niue,Free
+1017,2025-08-08,Gabon,Basic
+1018,2025-07-27,Nicaragua,Free
+1019,2024-12-05,Martinique,Basic
+1020,2025-08-20,Bermuda,Premium
+1021,2025-09-05,Macao,Basic
+1022,2024-12-24,Norway,Free
+1023,2025-02-19,Chile,Free
+1024,2024-12-02,Nauru,Free
+1025,2025-06-03,Western Sahara,Premium
+1026,2024-10-31,Mozambique,Free
+1027,2025-10-17,Cape Verde,Free
+1028,2025-02-20,Chile,Premium
+1029,2025-06-02,Palestinian Territory,Free
+1030,2025-07-12,Nigeria,Free
+1031,2025-10-09,Saint Helena,Basic
+1032,2025-03-16,United Arab Emirates,Free
+1033,2025-03-25,Netherlands,Basic
+1034,2025-10-22,Guadeloupe,Free
+1035,2025-07-26,Tajikistan,Free
+1036,2025-01-07,Uzbekistan,Basic
+1037,2024-11-20,Mongolia,Premium
+1038,2025-06-08,Armenia,Premium
+1039,2025-07-17,Sweden,Basic
+1040,2025-09-09,Tonga,Free
+1041,2025-06-22,Antarctica (the territory South of 60 deg S),Free
+1042,2025-01-24,Belgium,Premium
+1043,2024-11-30,Aruba,Free
+1044,2025-07-19,Yemen,Free
+1045,2025-08-18,Norway,Basic
+1046,2025-02-16,Sierra Leone,Basic
+1047,2025-09-17,Morocco,Free
+1048,2025-07-14,Estonia,Basic
+1049,2025-06-12,Pakistan,Free
+1050,2025-08-30,Cote d'Ivoire,Basic
+1051,2024-12-08,Seychelles,Basic
+1052,2025-08-27,Montserrat,Premium
+1053,2025-05-29,Israel,Premium
+1054,2025-08-21,Niger,Free
+1055,2024-11-06,Northern Mariana Islands,Free
+1056,2025-03-05,Antarctica (the territory South of 60 deg S),Premium
+1057,2025-05-16,Luxembourg,Premium
+1058,2025-04-06,Tuvalu,Premium
+1059,2025-07-05,Niue,Free
+1060,2025-03-14,Mayotte,Free
+1061,2024-11-17,French Guiana,Free
+1062,2025-05-06,Norway,Free
+1063,2025-06-30,Zimbabwe,Basic
+1064,2025-03-03,Gabon,Free
+1065,2024-10-26,Liberia,Free
+1066,2025-09-16,Ecuador,Premium
+1067,2025-04-03,Sri Lanka,Basic
+1068,2025-09-06,Sri Lanka,Free
+1069,2025-04-30,Poland,Free
+1070,2024-12-01,Iraq,Free
+1071,2025-04-08,French Southern Territories,Free
+1072,2025-03-11,Korea,Free
+1073,2025-06-25,Barbados,Free
+1074,2025-10-03,Portugal,Basic
+1075,2025-09-08,Bahamas,Basic
+1076,2025-04-18,Cayman Islands,Free
+1077,2025-07-23,Kazakhstan,Basic
+1078,2024-12-20,Israel,Basic
+1079,2025-04-09,Liberia,Free
+1080,2024-12-29,Kyrgyz Republic,Basic
+1081,2025-08-02,Costa Rica,Free
+1082,2025-05-12,Guam,Premium
+1083,2025-07-01,New Caledonia,Basic
+1084,2025-02-03,Cambodia,Basic
+1085,2025-06-18,Germany,Basic
+1086,2025-08-31,Tokelau,Free
+1087,2025-10-14,Saint Barthelemy,Free
+1088,2025-05-19,Ghana,Basic
+1089,2025-08-18,Saint Martin,Basic
+1090,2025-04-27,Tokelau,Premium
+1091,2025-04-20,Guatemala,Basic
+1092,2025-04-09,Iran,Free
+1093,2025-09-07,Bulgaria,Premium
+1094,2025-08-01,Senegal,Basic
+1095,2025-06-09,Heard Island and McDonald Islands,Basic
+1096,2025-02-03,Malaysia,Free
+1097,2025-02-24,Monaco,Free
+1098,2025-09-17,Botswana,Premium
+1099,2025-01-25,Ghana,Free
+1100,2025-09-09,Dominican Republic,Free
+1101,2025-10-19,Lao People's Democratic Republic,Free
+1102,2024-11-24,British Virgin Islands,Basic
+1103,2025-02-07,Ethiopia,Free
+1104,2025-09-29,Korea,Basic
+1105,2025-04-15,Egypt,Premium
+1106,2025-01-24,Cambodia,Free
+1107,2025-08-09,Bhutan,Basic
+1108,2025-04-20,Australia,Free
+1109,2025-05-31,French Guiana,Free
+1110,2025-06-16,Yemen,Premium
+1111,2025-07-08,Hungary,Free
+1112,2025-03-18,Tonga,Free
+1113,2025-03-01,Nicaragua,Free
+1114,2024-11-02,Italy,Free
+1115,2025-05-01,Egypt,Free
+1116,2025-09-17,Tonga,Basic
+1117,2025-02-25,United Arab Emirates,Free
+1118,2024-12-31,Cayman Islands,Free
+1119,2025-04-29,Suriname,Premium
+1120,2025-01-12,Greece,Free
+1121,2025-03-08,Vietnam,Free
+1122,2025-08-27,Morocco,Free
+1123,2025-01-30,Saint Helena,Free
+1124,2025-03-03,Germany,Basic
+1125,2025-02-07,Comoros,Free
+1126,2025-09-28,Serbia,Free
+1127,2025-06-10,Cayman Islands,Free
+1128,2025-07-21,Luxembourg,Free
+1129,2025-09-28,Malaysia,Basic
+1130,2025-02-06,Lao People's Democratic Republic,Free
+1131,2025-05-25,Luxembourg,Free
+1132,2024-10-25,Turkmenistan,Free
+1133,2025-05-10,Gambia,Free
+1134,2025-01-04,Luxembourg,Free
+1135,2024-11-24,Angola,Basic
+1136,2025-01-23,Bermuda,Free
+1137,2025-07-28,Western Sahara,Free
+1138,2025-03-28,India,Basic
+1139,2025-04-29,Madagascar,Basic
+1140,2025-05-25,Kuwait,Free
+1141,2025-08-12,Dominican Republic,Free
+1142,2025-01-23,Cuba,Premium
+1143,2025-07-17,Myanmar,Free
+1144,2025-04-24,Guinea,Basic
+1145,2025-06-29,Australia,Basic
+1146,2025-07-25,Australia,Free
+1147,2025-04-30,Finland,Free
+1148,2025-04-14,Lithuania,Free
+1149,2025-08-25,Nepal,Free
+1150,2024-10-28,Turkmenistan,Basic
+1151,2024-11-27,Tajikistan,Premium
+1152,2025-02-13,Palau,Premium
+1153,2025-01-16,Peru,Free
+1154,2025-03-28,Latvia,Free
+1155,2025-07-17,France,Premium
+1156,2025-01-24,Mauritania,Premium
+1157,2025-02-17,Algeria,Basic
+1158,2025-07-06,Tanzania,Free
+1159,2025-06-04,Botswana,Free
+1160,2025-03-14,Jersey,Premium
+1161,2025-04-23,Burkina Faso,Premium
+1162,2025-05-24,Turkmenistan,Free
+1163,2025-05-16,Estonia,Free
+1164,2025-03-04,Saint Lucia,Basic
+1165,2025-04-05,Haiti,Basic
+1166,2025-08-07,Serbia,Free
+1167,2025-05-23,Iraq,Basic
+1168,2025-02-27,Haiti,Free
+1169,2025-03-07,Aruba,Free
+1170,2025-07-21,Iran,Basic
+1171,2025-04-16,Austria,Basic
+1172,2025-02-04,Montenegro,Free
+1173,2025-02-18,Monaco,Basic
+1174,2025-01-27,Congo,Free
+1175,2025-01-19,Guyana,Basic
+1176,2024-12-07,Micronesia,Free
+1177,2025-07-29,France,Free
+1178,2025-01-04,Barbados,Free
+1179,2025-02-21,Hungary,Premium
+1180,2024-12-07,Madagascar,Free
+1181,2025-08-06,Korea,Basic
+1182,2025-05-18,Serbia,Premium
+1183,2025-08-14,Mexico,Basic
+1184,2025-07-17,Fiji,Basic
+1185,2025-01-01,Sweden,Free
+1186,2025-01-04,Nigeria,Basic
+1187,2025-01-14,Pitcairn Islands,Premium
+1188,2025-08-04,New Zealand,Premium
+1189,2025-04-28,British Indian Ocean Territory (Chagos Archipelago),Premium
+1190,2025-02-06,Brunei Darussalam,Basic
+1191,2025-07-30,Bhutan,Premium
+1192,2025-06-07,India,Free
+1193,2025-08-13,Holy See (Vatican City State),Premium
+1194,2025-05-13,South Africa,Basic
+1195,2025-06-10,Guadeloupe,Premium
+1196,2025-02-08,Moldova,Premium
+1197,2024-11-30,Wallis and Futuna,Basic
+1198,2025-09-10,Haiti,Premium
+1199,2025-01-05,Saudi Arabia,Basic
+1200,2025-02-14,Cambodia,Free
+1201,2025-01-18,Congo,Free
+1202,2025-03-11,Netherlands,Free
+1203,2024-12-30,Malawi,Basic
+1204,2025-02-16,Iran,Basic
+1205,2024-10-27,Macao,Basic
+1206,2025-07-23,Armenia,Basic
+1207,2025-05-17,Aruba,Free
+1208,2024-12-10,Argentina,Free
+1209,2025-02-05,Burundi,Basic
+1210,2024-11-08,Rwanda,Free
+1211,2024-11-12,Grenada,Basic
+1212,2025-05-24,Spain,Free
+1213,2025-02-12,Lebanon,Basic
+1214,2025-07-19,Maldives,Free
+1215,2024-12-10,Korea,Basic
+1216,2025-06-26,Canada,Free
+1217,2025-09-24,New Caledonia,Free
+1218,2025-08-10,Uganda,Free
+1219,2025-04-30,Malaysia,Free
+1220,2024-11-30,Burundi,Free
+1221,2025-09-25,Greece,Free
+1222,2024-10-26,Venezuela,Premium
+1223,2025-06-01,New Zealand,Free
+1224,2025-02-09,Ghana,Free
+1225,2025-04-22,Central African Republic,Basic
+1226,2025-04-25,India,Premium
+1227,2025-04-11,Nicaragua,Free
+1228,2025-03-03,Saint Vincent and the Grenadines,Free
+1229,2025-01-01,Tajikistan,Free
+1230,2024-11-10,French Southern Territories,Basic
+1231,2025-01-28,Nauru,Free
+1232,2025-10-22,Guadeloupe,Basic
+1233,2025-09-21,Madagascar,Free
+1234,2025-04-25,Switzerland,Premium
+1235,2024-12-05,Malawi,Free
+1236,2025-09-06,Martinique,Premium
+1237,2024-11-16,Liechtenstein,Free
+1238,2025-03-26,Russian Federation,Free
+1239,2025-04-30,Mongolia,Free
+1240,2024-11-19,French Southern Territories,Free
+1241,2025-06-03,Lebanon,Free
+1242,2025-06-23,Suriname,Basic
+1243,2025-07-15,Andorra,Free
+1244,2024-11-11,Heard Island and McDonald Islands,Free
+1245,2024-12-19,Greenland,Free
+1246,2024-12-18,Peru,Premium
+1247,2025-09-02,Bouvet Island (Bouvetoya),Premium
+1248,2025-05-28,Israel,Free
+1249,2025-02-16,Myanmar,Premium
+1250,2024-11-24,Gambia,Free
+1251,2025-01-26,South Africa,Basic
+1252,2024-12-07,United Arab Emirates,Basic
+1253,2025-05-26,Saint Kitts and Nevis,Basic
+1254,2025-08-14,Tunisia,Basic
+1255,2025-04-01,Portugal,Free
+1256,2025-06-14,Norfolk Island,Basic
+1257,2025-06-10,Anguilla,Free
+1258,2025-08-25,Nepal,Free
+1259,2025-06-19,Lebanon,Premium
+1260,2025-01-17,Estonia,Basic
+1261,2025-08-19,Palau,Premium
+1262,2025-05-12,Slovenia,Basic
+1263,2025-03-18,Singapore,Free
+1264,2025-04-14,Mozambique,Free
+1265,2025-10-09,Morocco,Free
+1266,2025-04-11,Denmark,Basic
+1267,2025-02-14,Saint Helena,Premium
+1268,2025-09-21,Austria,Free
+1269,2025-06-07,Myanmar,Basic
+1270,2025-04-06,Lesotho,Premium
+1271,2025-02-17,Chile,Free
+1272,2025-05-30,Malta,Basic
+1273,2025-06-20,Norfolk Island,Free
+1274,2024-11-14,Saint Helena,Free
+1275,2025-06-15,Niger,Basic
+1276,2025-08-05,Singapore,Free
+1277,2024-11-29,Tajikistan,Premium
+1278,2025-08-14,Hong Kong,Premium
+1279,2025-01-10,Cameroon,Free
+1280,2025-06-21,Swaziland,Premium
+1281,2025-01-11,Pitcairn Islands,Premium
+1282,2025-02-01,Ecuador,Free
+1283,2025-07-05,Antigua and Barbuda,Basic
+1284,2024-11-22,Montserrat,Free
+1285,2024-12-21,Yemen,Free
+1286,2025-01-23,Reunion,Free
+1287,2024-12-28,Bouvet Island (Bouvetoya),Free
+1288,2025-05-24,Comoros,Free
+1289,2024-11-20,Andorra,Free
+1290,2024-12-21,Kazakhstan,Basic
+1291,2024-10-23,Germany,Free
+1292,2025-03-29,Italy,Basic
+1293,2025-04-14,Canada,Basic
+1294,2025-07-16,Isle of Man,Basic
+1295,2025-06-09,Portugal,Premium
+1296,2025-04-22,Costa Rica,Free
+1297,2025-02-12,Isle of Man,Free
+1298,2024-11-03,Macao,Basic
+1299,2025-01-19,Singapore,Free
+1300,2025-02-10,New Zealand,Free
+1301,2025-07-23,Uruguay,Premium
+1302,2025-02-08,Latvia,Basic
+1303,2025-07-22,Tunisia,Basic
+1304,2025-09-20,Thailand,Free
+1305,2025-04-16,Saint Pierre and Miquelon,Free
+1306,2024-11-18,Saint Lucia,Basic
+1307,2025-07-15,Bahamas,Basic
+1308,2025-01-20,Romania,Free
+1309,2025-10-15,Burundi,Free
+1310,2025-02-01,Maldives,Basic
+1311,2025-08-23,Cote d'Ivoire,Free
+1312,2025-08-25,Monaco,Free
+1313,2025-06-21,Greece,Basic
+1314,2025-06-08,Panama,Free
+1315,2025-07-05,Lesotho,Basic
+1316,2025-08-30,Malta,Premium
+1317,2025-10-19,Honduras,Free
+1318,2025-01-06,Germany,Free
+1319,2025-04-05,Zimbabwe,Basic
+1320,2024-12-05,China,Basic
+1321,2025-05-21,Kuwait,Premium
+1322,2025-01-17,United States Minor Outlying Islands,Premium
+1323,2025-06-30,Martinique,Free
+1324,2024-12-18,Guam,Basic
+1325,2025-10-09,Mayotte,Premium
+1326,2025-02-02,Guinea,Basic
+1327,2025-09-08,Philippines,Basic
+1328,2024-12-16,Sierra Leone,Free
+1329,2024-11-18,Trinidad and Tobago,Basic
+1330,2024-11-14,Saint Helena,Free
+1331,2024-12-25,Pitcairn Islands,Basic
+1332,2025-08-25,Norway,Premium
+1333,2025-02-18,Spain,Premium
+1334,2025-06-10,Puerto Rico,Premium
+1335,2025-08-08,Estonia,Basic
+1336,2025-09-07,New Zealand,Free
+1337,2025-05-31,Liberia,Free
+1338,2025-10-14,Congo,Free
+1339,2025-02-11,Egypt,Free
+1340,2025-04-10,Fiji,Premium
+1341,2024-12-09,Moldova,Basic
+1342,2025-04-22,French Southern Territories,Free
+1343,2025-07-16,Czech Republic,Premium
+1344,2025-02-17,Western Sahara,Free
+1345,2025-07-20,French Southern Territories,Free
+1346,2025-03-27,Sierra Leone,Free
+1347,2025-02-04,France,Basic
+1348,2025-05-04,Romania,Free
+1349,2025-05-19,Cote d'Ivoire,Free
+1350,2025-05-01,Portugal,Basic
+1351,2025-04-10,Romania,Basic
+1352,2024-11-22,Liechtenstein,Free
+1353,2025-06-11,Ghana,Premium
+1354,2024-11-06,Lesotho,Free
+1355,2025-10-02,Guernsey,Free
+1356,2025-04-07,Monaco,Free
+1357,2025-08-03,Vietnam,Free
+1358,2025-02-24,Vietnam,Basic
+1359,2025-06-13,South Africa,Free
+1360,2025-01-27,Saint Helena,Free
+1361,2024-11-01,Falkland Islands (Malvinas),Basic
+1362,2024-11-26,France,Basic
+1363,2025-01-18,British Virgin Islands,Free
+1364,2025-07-10,Montserrat,Free
+1365,2025-09-11,Philippines,Basic
+1366,2025-09-21,Mayotte,Basic
+1367,2025-06-02,Hong Kong,Basic
+1368,2025-06-07,Ukraine,Free
+1369,2024-10-30,Indonesia,Premium
+1370,2025-08-15,Svalbard & Jan Mayen Islands,Free
+1371,2025-07-10,Guatemala,Free
+1372,2025-09-06,Zimbabwe,Free
+1373,2025-02-03,Sierra Leone,Free
+1374,2025-06-02,Spain,Free
+1375,2024-11-06,Cameroon,Basic
+1376,2025-08-14,French Guiana,Basic
+1377,2025-08-11,Armenia,Basic
+1378,2024-12-29,France,Basic
+1379,2025-04-22,Zimbabwe,Free
+1380,2025-05-11,Rwanda,Basic
+1381,2025-07-02,Belgium,Premium
+1382,2025-04-11,Guatemala,Premium
+1383,2025-10-12,Uzbekistan,Free
+1384,2025-02-07,Kenya,Free
+1385,2024-12-31,Palau,Basic
+1386,2025-06-06,Equatorial Guinea,Free
+1387,2025-04-09,San Marino,Basic
+1388,2025-06-25,Lesotho,Basic
+1389,2025-09-03,Croatia,Basic
+1390,2025-04-30,Cook Islands,Basic
+1391,2024-11-26,Sweden,Basic
+1392,2025-04-22,Mauritania,Free
+1393,2025-03-06,Faroe Islands,Free
+1394,2025-03-29,Venezuela,Premium
+1395,2025-02-28,Monaco,Free
+1396,2025-02-23,Qatar,Premium
+1397,2025-07-09,Faroe Islands,Basic
+1398,2024-12-01,Burundi,Free
+1399,2025-09-20,Botswana,Basic
+1400,2024-12-23,Nicaragua,Free
+1401,2025-02-27,Saint Vincent and the Grenadines,Basic
+1402,2025-03-30,Namibia,Premium
+1403,2025-07-18,Dominican Republic,Premium
+1404,2025-05-02,Ecuador,Basic
+1405,2025-02-10,Australia,Free
+1406,2025-07-06,Paraguay,Premium
+1407,2025-03-26,United Kingdom,Free
+1408,2025-09-02,Marshall Islands,Free
+1409,2025-08-13,Czech Republic,Basic
+1410,2025-05-23,Northern Mariana Islands,Basic
+1411,2024-11-05,Djibouti,Free
+1412,2025-04-16,Austria,Basic
+1413,2024-11-25,Bolivia,Premium
+1414,2025-02-21,Isle of Man,Premium
+1415,2025-01-28,Greenland,Basic
+1416,2025-02-24,Saint Barthelemy,Basic
+1417,2024-12-06,Latvia,Free
+1418,2025-08-18,Bolivia,Basic
+1419,2025-03-27,Pitcairn Islands,Basic
+1420,2025-09-22,Sierra Leone,Free
+1421,2025-05-09,Burundi,Free
+1422,2025-09-07,Albania,Basic
+1423,2024-10-22,Mexico,Premium
+1424,2025-07-04,Vanuatu,Basic
+1425,2025-09-24,Cayman Islands,Basic
+1426,2025-05-20,Ireland,Basic
+1427,2025-04-19,Palau,Free
+1428,2025-03-31,Vietnam,Free
+1429,2024-11-12,Turkmenistan,Free
+1430,2025-01-02,Turkey,Free
+1431,2025-05-11,Lebanon,Free
+1432,2025-03-11,Lesotho,Free
+1433,2025-06-20,Pakistan,Premium
+1434,2025-08-11,Cook Islands,Basic
+1435,2025-05-03,Saudi Arabia,Basic
+1436,2025-06-21,France,Free
+1437,2025-04-11,Gibraltar,Basic
+1438,2025-08-13,France,Basic
+1439,2024-11-11,Oman,Premium
+1440,2025-01-09,Bahamas,Free
+1441,2025-02-02,United States of America,Basic
+1442,2025-05-23,Seychelles,Free
+1443,2024-12-11,Benin,Free
+1444,2025-10-17,Pakistan,Free
+1445,2025-02-10,Montserrat,Free
+1446,2025-04-10,Djibouti,Free
+1447,2025-09-29,Martinique,Premium
+1448,2025-07-20,Saint Vincent and the Grenadines,Basic
+1449,2025-04-28,Saint Kitts and Nevis,Premium
+1450,2024-12-08,Thailand,Free
+1451,2024-11-02,Vietnam,Premium
+1452,2025-06-23,Argentina,Basic
+1453,2025-06-15,United States Minor Outlying Islands,Free
+1454,2025-08-28,Uruguay,Free
+1455,2025-01-22,China,Free
+1456,2025-07-24,Israel,Free
+1457,2024-12-22,Turkmenistan,Premium
+1458,2025-02-19,Taiwan,Premium
+1459,2025-05-23,Christmas Island,Basic
+1460,2024-10-27,Vietnam,Free
+1461,2025-05-24,Uruguay,Free
+1462,2025-03-29,Argentina,Free
+1463,2024-11-27,Taiwan,Basic
+1464,2025-01-17,Indonesia,Premium
+1465,2025-09-13,Solomon Islands,Free
+1466,2025-10-11,Lithuania,Basic
+1467,2024-12-05,Colombia,Free
+1468,2025-04-19,Vietnam,Basic
+1469,2024-12-06,San Marino,Premium
+1470,2025-06-30,Tunisia,Free
+1471,2025-09-10,Vanuatu,Free
+1472,2024-12-20,French Guiana,Premium
+1473,2025-05-03,Turkey,Premium
+1474,2025-10-19,Argentina,Free
+1475,2025-07-27,Algeria,Basic
+1476,2025-02-12,French Southern Territories,Basic
+1477,2025-05-07,Montenegro,Free
+1478,2025-07-22,Netherlands,Premium
+1479,2025-02-05,Botswana,Basic
+1480,2025-04-01,Vanuatu,Free
+1481,2025-09-11,Grenada,Basic
+1482,2025-04-27,Finland,Basic
+1483,2025-04-23,Korea,Premium
+1484,2025-01-24,Norway,Premium
+1485,2025-04-17,Mayotte,Free
+1486,2025-05-24,Malta,Free
+1487,2024-12-17,Lithuania,Premium
+1488,2025-03-19,Tuvalu,Free
+1489,2025-01-04,Wallis and Futuna,Premium
+1490,2025-10-15,Burkina Faso,Premium
+1491,2025-06-11,Thailand,Basic
+1492,2025-05-07,Madagascar,Premium
+1493,2025-08-07,Lao People's Democratic Republic,Premium
+1494,2025-09-28,Faroe Islands,Basic
+1495,2024-12-14,Congo,Basic
+1496,2025-09-22,Sudan,Premium
+1497,2024-11-18,Bouvet Island (Bouvetoya),Free
+1498,2025-02-06,Greenland,Premium
+1499,2025-08-18,Central African Republic,Free
+1500,2025-08-24,Saint Martin,Basic
+1501,2025-09-18,Kuwait,Free
+1502,2025-04-01,Oman,Premium
+1503,2025-03-02,Equatorial Guinea,Premium
+1504,2025-10-19,Saint Barthelemy,Basic
+1505,2025-08-23,Colombia,Basic
+1506,2025-05-07,American Samoa,Premium
+1507,2025-02-02,Saint Pierre and Miquelon,Free
+1508,2025-09-05,Guadeloupe,Free
+1509,2024-10-22,Somalia,Free
+1510,2025-02-08,French Polynesia,Free
+1511,2025-07-30,Montenegro,Free
+1512,2025-02-14,Peru,Free
+1513,2025-09-12,Saudi Arabia,Premium
+1514,2025-06-06,Congo,Basic
+1515,2025-06-04,China,Basic
+1516,2025-07-05,New Zealand,Basic
+1517,2025-04-30,Togo,Basic
+1518,2025-09-23,Northern Mariana Islands,Free
+1519,2024-12-18,Ukraine,Free
+1520,2025-04-13,Iraq,Basic
+1521,2025-05-19,Sweden,Free
+1522,2025-04-28,Japan,Free
+1523,2025-03-05,Malaysia,Premium
+1524,2025-02-28,Greece,Free
+1525,2025-05-24,Benin,Free
+1526,2025-08-14,Iran,Basic
+1527,2025-05-21,Paraguay,Premium
+1528,2025-03-17,Bhutan,Premium
+1529,2025-04-16,Colombia,Free
+1530,2025-10-19,Burundi,Basic
+1531,2025-02-23,Lesotho,Basic
+1532,2025-09-24,Gibraltar,Free
+1533,2025-01-03,Vietnam,Basic
+1534,2025-07-19,Egypt,Basic
+1535,2025-01-22,Albania,Premium
+1536,2025-06-01,Eritrea,Premium
+1537,2025-03-19,Hungary,Basic
+1538,2025-01-20,Dominica,Free
+1539,2025-09-19,Kiribati,Premium
+1540,2025-08-19,Sao Tome and Principe,Premium
+1541,2025-03-30,Ethiopia,Free
+1542,2024-11-07,Zimbabwe,Basic
+1543,2025-02-22,Greenland,Free
+1544,2025-08-07,Gabon,Free
+1545,2025-04-23,Myanmar,Premium
+1546,2025-07-22,Saint Kitts and Nevis,Free
+1547,2025-10-11,Montserrat,Free
+1548,2025-09-02,Algeria,Free
+1549,2025-03-19,Eritrea,Free
+1550,2025-03-20,Palau,Premium
+1551,2025-07-06,Guyana,Free
+1552,2025-08-25,Puerto Rico,Basic
+1553,2025-09-05,Dominica,Free
+1554,2025-07-02,Bahamas,Basic
+1555,2024-12-20,Papua New Guinea,Premium
+1556,2025-05-02,British Indian Ocean Territory (Chagos Archipelago),Free
+1557,2024-11-05,Lao People's Democratic Republic,Basic
+1558,2024-12-10,Gambia,Free
+1559,2025-05-05,Cayman Islands,Premium
+1560,2025-06-08,Iraq,Free
+1561,2025-02-27,Poland,Premium
+1562,2025-09-24,Macao,Basic
+1563,2024-11-29,Uzbekistan,Basic
+1564,2025-09-26,Ukraine,Free
+1565,2025-09-15,Tuvalu,Premium
+1566,2025-04-10,Romania,Basic
+1567,2024-11-29,Sierra Leone,Free
+1568,2025-05-14,Georgia,Free
+1569,2025-10-10,Portugal,Basic
+1570,2025-04-17,British Indian Ocean Territory (Chagos Archipelago),Basic
+1571,2024-10-27,Northern Mariana Islands,Basic
+1572,2025-07-29,United States Virgin Islands,Premium
+1573,2024-12-16,Wallis and Futuna,Premium
+1574,2025-03-30,French Polynesia,Basic
+1575,2025-09-25,Heard Island and McDonald Islands,Premium
+1576,2025-07-03,Nicaragua,Basic
+1577,2024-12-20,Cyprus,Premium
+1578,2024-11-20,Cyprus,Free
+1579,2025-04-22,Burkina Faso,Basic
+1580,2025-08-21,Lesotho,Free
+1581,2025-02-01,Cape Verde,Basic
+1582,2025-03-02,Korea,Premium
+1583,2025-06-21,San Marino,Premium
+1584,2025-07-18,New Caledonia,Free
+1585,2025-03-25,Holy See (Vatican City State),Basic
+1586,2025-07-01,Israel,Premium
+1587,2024-11-22,Reunion,Basic
+1588,2025-09-17,Mexico,Premium
+1589,2025-02-26,United States Minor Outlying Islands,Free
+1590,2025-09-18,Latvia,Basic
+1591,2025-07-10,Saudi Arabia,Free
+1592,2025-09-20,Mauritania,Basic
+1593,2025-05-17,Spain,Free
+1594,2025-03-18,Papua New Guinea,Basic
+1595,2025-02-21,Sweden,Basic
+1596,2025-06-22,Cuba,Premium
+1597,2025-07-28,Serbia,Basic
+1598,2025-10-01,Egypt,Free
+1599,2025-08-12,Pitcairn Islands,Free
+1600,2025-04-29,Saudi Arabia,Premium
+1601,2025-09-25,Nepal,Free
+1602,2025-05-20,Tunisia,Premium
+1603,2024-11-04,Solomon Islands,Free
+1604,2025-06-18,Belgium,Free
+1605,2024-11-17,Malta,Basic
+1606,2025-01-21,Kiribati,Free
+1607,2025-06-24,Marshall Islands,Premium
+1608,2025-07-14,Romania,Premium
+1609,2025-10-14,Guyana,Basic
+1610,2025-02-10,Belarus,Free
+1611,2025-01-18,United States Virgin Islands,Free
+1612,2025-08-08,Mongolia,Free
+1613,2024-11-26,Bouvet Island (Bouvetoya),Free
+1614,2025-04-08,Bahamas,Basic
+1615,2024-11-29,Switzerland,Free
+1616,2025-08-13,Mexico,Basic
+1617,2025-06-25,United Kingdom,Free
+1618,2025-07-22,Madagascar,Premium
+1619,2025-09-25,Cook Islands,Basic
+1620,2024-11-30,Montserrat,Basic
+1621,2025-04-12,Mauritania,Premium
+1622,2024-12-25,Canada,Basic
+1623,2025-07-18,Chad,Free
+1624,2025-02-15,Greece,Basic
+1625,2025-10-07,Timor-Leste,Free
+1626,2024-11-02,Mali,Basic
+1627,2024-11-08,Kenya,Premium
+1628,2025-02-24,Brazil,Free
+1629,2025-08-27,Pitcairn Islands,Free
+1630,2024-11-12,Costa Rica,Free
+1631,2025-02-12,Saint Barthelemy,Free
+1632,2025-03-10,Myanmar,Basic
+1633,2025-03-16,Liechtenstein,Premium
+1634,2025-04-07,Bermuda,Basic
+1635,2024-12-17,United Arab Emirates,Basic
+1636,2025-01-24,Malawi,Basic
+1637,2025-05-16,Kiribati,Basic
+1638,2025-03-31,Sudan,Free
+1639,2025-05-29,Azerbaijan,Free
+1640,2025-07-13,Korea,Basic
+1641,2025-08-25,Bulgaria,Basic
+1642,2024-12-30,Malaysia,Premium
+1643,2024-12-27,Israel,Free
+1644,2024-12-28,Korea,Premium
+1645,2024-11-21,Mongolia,Premium
+1646,2025-06-15,Azerbaijan,Basic
+1647,2025-09-25,Monaco,Premium
+1648,2025-03-19,Kyrgyz Republic,Premium
+1649,2025-06-19,Peru,Basic
+1650,2025-07-14,Sri Lanka,Free
+1651,2025-01-23,Gambia,Free
+1652,2025-05-03,Saint Kitts and Nevis,Premium
+1653,2025-10-11,Angola,Free
+1654,2025-06-05,Indonesia,Basic
+1655,2024-12-16,Equatorial Guinea,Premium
+1656,2025-01-20,Svalbard & Jan Mayen Islands,Basic
+1657,2025-04-19,Afghanistan,Free
+1658,2025-06-26,Samoa,Free
+1659,2025-01-28,Cuba,Premium
+1660,2025-04-18,Mozambique,Free
+1661,2025-01-29,Barbados,Free
+1662,2025-07-07,Aruba,Basic
+1663,2024-10-25,Jamaica,Free
+1664,2025-10-06,Guatemala,Basic
+1665,2025-08-30,Reunion,Basic
+1666,2025-04-20,Bahrain,Basic
+1667,2025-10-06,Mauritius,Premium
+1668,2025-02-10,Bahamas,Basic
+1669,2025-07-12,Vietnam,Basic
+1670,2025-05-22,Uganda,Basic
+1671,2024-12-22,Bangladesh,Basic
+1672,2024-11-19,Vietnam,Basic
+1673,2025-04-11,Latvia,Basic
+1674,2025-03-05,Antigua and Barbuda,Free
+1675,2025-06-07,France,Free
+1676,2025-02-15,Ireland,Free
+1677,2025-06-27,Cocos (Keeling) Islands,Basic
+1678,2025-04-04,Seychelles,Basic
+1679,2025-07-17,Burkina Faso,Premium
+1680,2025-01-27,Seychelles,Premium
+1681,2025-04-17,Norway,Premium
+1682,2025-09-15,Saint Lucia,Free
+1683,2025-02-16,Oman,Premium
+1684,2025-01-07,Italy,Premium
+1685,2025-03-20,Holy See (Vatican City State),Free
+1686,2025-09-18,Uganda,Free
+1687,2025-04-27,Hong Kong,Basic
+1688,2024-12-02,Kiribati,Free
+1689,2025-01-22,Trinidad and Tobago,Basic
+1690,2025-03-19,United States Virgin Islands,Basic
+1691,2025-06-01,United States of America,Basic
+1692,2025-03-10,Honduras,Premium
+1693,2025-06-02,Honduras,Premium
+1694,2025-02-13,Belgium,Premium
+1695,2025-07-20,Pitcairn Islands,Free
+1696,2025-02-13,Panama,Free
+1697,2024-10-30,Tunisia,Premium
+1698,2025-09-09,Mauritius,Basic
+1699,2025-07-04,Burkina Faso,Free
+1700,2025-03-24,Palau,Free
+1701,2025-02-05,Tokelau,Premium
+1702,2024-10-25,Guernsey,Premium
+1703,2025-05-29,British Indian Ocean Territory (Chagos Archipelago),Free
+1704,2025-09-22,Christmas Island,Free
+1705,2025-07-15,Mauritania,Premium
+1706,2025-08-20,India,Premium
+1707,2025-08-07,Marshall Islands,Premium
+1708,2024-11-10,Brunei Darussalam,Free
+1709,2025-10-10,Saint Lucia,Premium
+1710,2025-06-14,Czech Republic,Basic
+1711,2025-08-07,Syrian Arab Republic,Basic
+1712,2025-05-02,Afghanistan,Basic
+1713,2025-09-10,Saudi Arabia,Premium
+1714,2025-10-08,Angola,Free
+1715,2025-10-07,French Southern Territories,Free
+1716,2025-02-10,Kyrgyz Republic,Free
+1717,2025-08-19,Peru,Basic
+1718,2025-08-28,Saint Helena,Free
+1719,2025-01-19,Mayotte,Free
+1720,2025-06-14,Jamaica,Free
+1721,2025-08-29,Martinique,Free
+1722,2025-03-07,Hong Kong,Free
+1723,2025-01-15,Swaziland,Free
+1724,2025-06-26,Denmark,Free
+1725,2025-01-03,Egypt,Basic
+1726,2025-06-20,Kuwait,Premium
+1727,2025-01-27,Guatemala,Free
+1728,2025-07-12,Cape Verde,Premium
+1729,2025-08-11,Falkland Islands (Malvinas),Basic
+1730,2025-07-28,Comoros,Free
+1731,2025-08-16,Vietnam,Basic
+1732,2025-07-05,Turkey,Premium
+1733,2025-07-13,Saint Kitts and Nevis,Basic
+1734,2025-09-12,Serbia,Basic
+1735,2024-12-14,Bouvet Island (Bouvetoya),Free
+1736,2025-06-22,Antigua and Barbuda,Basic
+1737,2024-11-28,Sudan,Premium
+1738,2025-10-07,Panama,Free
+1739,2025-06-22,Italy,Free
+1740,2025-06-30,Nicaragua,Premium
+1741,2024-11-06,Seychelles,Free
+1742,2025-02-18,Vietnam,Free
+1743,2025-08-24,Turks and Caicos Islands,Premium
+1744,2025-04-11,Tuvalu,Free
+1745,2024-11-03,Andorra,Free
+1746,2025-06-04,Dominican Republic,Free
+1747,2025-03-12,Costa Rica,Premium
+1748,2025-08-02,Bangladesh,Basic
+1749,2024-12-12,Bolivia,Free
+1750,2024-11-26,Nepal,Premium
+1751,2025-10-10,Antigua and Barbuda,Basic
+1752,2025-02-13,Kiribati,Basic
+1753,2025-02-25,Netherlands Antilles,Free
+1754,2025-08-08,Peru,Premium
+1755,2025-04-01,Romania,Free
+1756,2024-12-29,Tunisia,Free
+1757,2025-01-07,Australia,Basic
+1758,2024-12-12,Ecuador,Free
+1759,2025-08-23,Saint Vincent and the Grenadines,Basic
+1760,2025-05-19,Aruba,Premium
+1761,2025-09-27,Iran,Basic
+1762,2025-03-13,Kazakhstan,Free
+1763,2025-05-16,Djibouti,Free
+1764,2025-05-04,Mauritius,Free
+1765,2025-10-11,Cuba,Basic
+1766,2025-02-04,Saudi Arabia,Basic
+1767,2025-09-09,Tonga,Free
+1768,2024-12-24,Singapore,Premium
+1769,2025-01-29,Azerbaijan,Free
+1770,2025-10-11,Burundi,Free
+1771,2025-09-07,Macao,Basic
+1772,2025-04-27,French Guiana,Free
+1773,2025-08-31,Djibouti,Free
+1774,2025-02-13,Suriname,Basic
+1775,2025-08-07,United States Virgin Islands,Free
+1776,2025-09-25,Saint Martin,Free
+1777,2025-03-02,Morocco,Free
+1778,2025-08-30,Ghana,Premium
+1779,2024-12-05,Morocco,Basic
+1780,2025-04-21,Netherlands Antilles,Premium
+1781,2024-11-20,Sierra Leone,Free
+1782,2024-12-15,Peru,Free
+1783,2025-08-10,Svalbard & Jan Mayen Islands,Free
+1784,2025-01-17,Gibraltar,Premium
+1785,2025-09-21,Dominica,Basic
+1786,2025-07-11,Gabon,Basic
+1787,2025-07-30,Turkey,Premium
+1788,2025-07-10,Cambodia,Premium
+1789,2025-03-25,Panama,Basic
+1790,2025-09-15,Mali,Free
+1791,2025-08-30,Cyprus,Free
+1792,2025-05-26,Isle of Man,Free
+1793,2025-03-13,French Southern Territories,Basic
+1794,2024-11-26,Falkland Islands (Malvinas),Basic
+1795,2025-08-25,Bahamas,Free
+1796,2025-03-24,Moldova,Basic
+1797,2024-10-27,Yemen,Free
+1798,2025-02-01,Nauru,Basic
+1799,2025-05-18,Turkmenistan,Free
+1800,2024-12-08,Saint Pierre and Miquelon,Free
+1801,2025-04-16,United States Minor Outlying Islands,Basic
+1802,2025-03-14,China,Free
+1803,2025-07-10,Niue,Free
+1804,2025-08-08,Philippines,Free
+1805,2025-07-10,Japan,Free
+1806,2025-01-31,Moldova,Basic
+1807,2025-06-06,Lithuania,Basic
+1808,2025-03-18,Australia,Free
+1809,2025-09-06,Guatemala,Basic
+1810,2025-06-26,Western Sahara,Free
+1811,2025-10-22,Norway,Free
+1812,2025-03-15,Paraguay,Free
+1813,2024-12-03,Hong Kong,Premium
+1814,2025-07-11,Solomon Islands,Premium
+1815,2025-01-20,Malta,Basic
+1816,2025-04-23,Ghana,Premium
+1817,2024-10-31,Qatar,Premium
+1818,2025-06-19,Israel,Premium
+1819,2025-09-30,Ireland,Basic
+1820,2025-05-28,Canada,Basic
+1821,2025-02-26,French Southern Territories,Free
+1822,2025-10-12,Honduras,Free
+1823,2025-06-15,Colombia,Premium
+1824,2025-01-15,Saudi Arabia,Basic
+1825,2025-06-30,Mauritania,Free
+1826,2024-11-15,Lebanon,Free
+1827,2025-06-25,Dominican Republic,Premium
+1828,2025-09-06,Thailand,Free
+1829,2025-04-20,Czech Republic,Free
+1830,2025-10-10,French Southern Territories,Free
+1831,2025-07-21,Togo,Free
+1832,2025-02-16,Russian Federation,Free
+1833,2025-07-01,Cambodia,Free
+1834,2025-03-29,Sri Lanka,Basic
+1835,2024-12-06,Kyrgyz Republic,Free
+1836,2024-12-15,United States Virgin Islands,Free
+1837,2024-11-08,Azerbaijan,Premium
+1838,2024-11-05,Monaco,Free
+1839,2025-02-17,Isle of Man,Free
+1840,2025-05-01,Israel,Free
+1841,2024-12-06,Moldova,Free
+1842,2024-11-28,Marshall Islands,Free
+1843,2025-01-21,Burkina Faso,Premium
+1844,2025-10-01,Iceland,Basic
+1845,2025-05-18,Ecuador,Free
+1846,2024-12-13,Equatorial Guinea,Free
+1847,2025-03-21,Costa Rica,Basic
+1848,2025-04-16,Greenland,Free
+1849,2025-03-15,Oman,Free
+1850,2025-07-09,Belgium,Free
+1851,2025-08-06,Uzbekistan,Premium
+1852,2025-07-19,Korea,Free
+1853,2025-05-19,Tanzania,Free
+1854,2025-04-02,Heard Island and McDonald Islands,Basic
+1855,2025-06-07,Bermuda,Premium
+1856,2025-08-06,Mauritania,Free
+1857,2025-07-31,Saint Kitts and Nevis,Basic
+1858,2024-12-21,Switzerland,Free
+1859,2025-09-30,Comoros,Basic
+1860,2025-04-01,Austria,Basic
+1861,2025-07-03,Ethiopia,Free
+1862,2024-11-29,Honduras,Basic
+1863,2025-09-10,Peru,Free
+1864,2025-04-30,Netherlands,Premium
+1865,2025-06-18,Netherlands,Basic
+1866,2025-03-29,Armenia,Basic
+1867,2025-10-21,Tunisia,Free
+1868,2025-02-07,Barbados,Premium
+1869,2024-11-03,Comoros,Free
+1870,2025-07-17,Spain,Basic
+1871,2025-03-14,Senegal,Premium
+1872,2025-01-14,Namibia,Free
+1873,2025-04-12,Saint Kitts and Nevis,Free
+1874,2025-04-12,Paraguay,Basic
+1875,2025-01-21,Monaco,Premium
+1876,2025-09-19,Cuba,Free
+1877,2025-03-11,Lesotho,Premium
+1878,2024-11-29,Cote d'Ivoire,Basic
+1879,2025-07-15,Trinidad and Tobago,Free
+1880,2025-03-13,United States of America,Premium
+1881,2025-05-21,Grenada,Premium
+1882,2025-10-07,Gabon,Free
+1883,2025-06-29,Zimbabwe,Free
+1884,2025-03-10,United States of America,Premium
+1885,2024-11-14,American Samoa,Premium
+1886,2025-03-25,Croatia,Basic
+1887,2025-02-06,Vietnam,Free
+1888,2025-01-03,Comoros,Premium
+1889,2024-12-08,Saint Vincent and the Grenadines,Free
+1890,2025-09-16,British Indian Ocean Territory (Chagos Archipelago),Basic
+1891,2025-09-07,San Marino,Premium
+1892,2025-04-16,Saudi Arabia,Free
+1893,2024-11-26,Lesotho,Premium
+1894,2025-07-06,United States Virgin Islands,Free
+1895,2025-01-12,Ecuador,Free
+1896,2025-06-28,Qatar,Premium
+1897,2025-06-27,Netherlands,Basic
+1898,2025-06-10,Romania,Free
+1899,2024-10-30,Costa Rica,Premium
+1900,2024-11-10,Indonesia,Basic
+1901,2025-08-23,United States Virgin Islands,Free
+1902,2025-02-28,Dominican Republic,Free
+1903,2025-01-24,Micronesia,Basic
+1904,2024-12-09,Gibraltar,Basic
+1905,2025-08-23,Singapore,Premium
+1906,2025-05-29,Finland,Basic
+1907,2025-01-09,Hong Kong,Basic
+1908,2024-11-17,Lao People's Democratic Republic,Free
+1909,2025-09-09,Martinique,Free
+1910,2025-08-15,Pakistan,Basic
+1911,2025-05-25,Guinea-Bissau,Free
+1912,2025-01-10,Gambia,Free
+1913,2025-06-06,Eritrea,Free
+1914,2025-01-13,Guyana,Basic
+1915,2025-09-02,Malaysia,Free
+1916,2025-09-24,Turkmenistan,Basic
+1917,2025-01-20,Luxembourg,Free
+1918,2025-02-26,Lao People's Democratic Republic,Premium
+1919,2025-08-18,Bolivia,Premium
+1920,2024-12-18,Spain,Premium
+1921,2025-08-24,Saint Helena,Basic
+1922,2025-10-06,Latvia,Premium
+1923,2025-06-10,Senegal,Free
+1924,2024-10-23,Taiwan,Free
+1925,2025-02-06,Ghana,Basic
+1926,2025-09-20,United States Virgin Islands,Basic
+1927,2024-12-17,Costa Rica,Free
+1928,2024-12-11,Heard Island and McDonald Islands,Premium
+1929,2025-05-19,Germany,Free
+1930,2025-01-27,Isle of Man,Basic
+1931,2025-08-28,Aruba,Free
+1932,2024-12-28,Mongolia,Basic
+1933,2024-12-03,Tonga,Premium
+1934,2025-07-05,Cyprus,Basic
+1935,2025-09-23,Saint Vincent and the Grenadines,Free
+1936,2024-11-01,Cameroon,Free
+1937,2024-12-12,Andorra,Free
+1938,2024-10-27,Eritrea,Premium
+1939,2025-03-10,Micronesia,Free
+1940,2025-08-24,Vietnam,Premium
+1941,2025-08-24,Myanmar,Basic
+1942,2025-01-22,Mozambique,Basic
+1943,2025-06-07,Saint Helena,Premium
+1944,2025-02-24,Israel,Free
+1945,2024-10-28,French Polynesia,Free
+1946,2024-12-28,Cape Verde,Basic
+1947,2025-02-02,Congo,Premium
+1948,2024-11-11,Greenland,Basic
+1949,2024-12-10,Denmark,Basic
+1950,2025-08-06,Hong Kong,Free
+1951,2025-04-03,Montenegro,Premium
+1952,2025-05-14,Syrian Arab Republic,Free
+1953,2024-12-05,Ecuador,Free
+1954,2025-08-07,Luxembourg,Free
+1955,2024-11-15,Mexico,Free
+1956,2025-04-24,Palau,Free
+1957,2025-04-14,Western Sahara,Basic
+1958,2025-08-20,Poland,Basic
+1959,2025-03-11,Guadeloupe,Basic
+1960,2025-05-09,Equatorial Guinea,Basic
+1961,2025-06-09,Serbia,Premium
+1962,2024-12-03,Swaziland,Free
+1963,2025-04-15,Liechtenstein,Basic
+1964,2025-05-05,Saint Kitts and Nevis,Free
+1965,2025-01-16,Norway,Free
+1966,2025-06-17,Saint Vincent and the Grenadines,Premium
+1967,2024-11-07,Liechtenstein,Basic
+1968,2025-07-31,Kuwait,Basic
+1969,2025-08-22,Chile,Premium
+1970,2025-10-09,Saint Martin,Basic
+1971,2025-09-23,South Africa,Free
+1972,2025-07-04,Guinea,Free
+1973,2025-05-12,Chile,Basic
+1974,2025-02-16,Burundi,Basic
+1975,2025-04-17,Saint Helena,Basic
+1976,2025-06-28,Mayotte,Free
+1977,2024-11-03,Liechtenstein,Free
+1978,2024-11-14,Colombia,Free
+1979,2025-04-26,United States Virgin Islands,Basic
+1980,2025-09-16,Tuvalu,Free
+1981,2025-03-26,Mauritius,Free
+1982,2025-04-05,Norway,Free
+1983,2025-07-15,Bahamas,Free
+1984,2024-12-02,Malta,Free
+1985,2025-04-30,Antigua and Barbuda,Free
+1986,2025-07-25,Taiwan,Basic
+1987,2025-10-10,Tanzania,Basic
+1988,2025-04-12,Belarus,Premium
+1989,2024-11-19,Western Sahara,Free
+1990,2025-10-06,Svalbard & Jan Mayen Islands,Free
+1991,2024-11-22,Paraguay,Free
+1992,2025-02-24,Australia,Free
+1993,2025-06-15,Serbia,Basic
+1994,2024-12-18,Albania,Free
+1995,2024-11-16,Isle of Man,Free
+1996,2024-12-10,Burundi,Basic
+1997,2025-02-05,Tajikistan,Basic
+1998,2025-06-21,Norfolk Island,Free
+1999,2025-06-24,Djibouti,Basic
+2000,2025-06-06,Bangladesh,Premium
